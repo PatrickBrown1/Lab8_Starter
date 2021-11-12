@@ -1,4 +1,6 @@
 # Lab 8 - Starter
+Contributors: Patrick Brown
+
 1) In your own words: Where would you fit your automated tests in your Recipe project development pipeline?
 
 1. Within a Github action that runs whenever code is pushed 
